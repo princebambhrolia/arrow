@@ -1,0 +1,55 @@
+.main1{
+    border: solid black 1px;
+    width: 25%;
+    height: 500px;
+    margin-left: 600px;
+    margin-top: 100px;
+}
+.p1{
+    font-size: 30px;
+    margin-top: -1px;
+    margin-left: 20px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+.p2{
+    height: 70px;
+    width: 100%;
+}
+.img{
+    height: 250px;
+    width: 100%;
+}
+.img1{
+    height: 200px;
+    margin-left:15px;
+    width: 90%;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+.p3{
+    font-size: 25px;
+    font-family: sans-serif;
+    font-weight: 500;
+    margin-left: 20px;
+}
+.p4{
+    color: gray;
+    margin-left: 20px;
+    margin-top: -10px;
+}
+.btn1{
+    background-color: rgb(211 177 154);
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn2{
+    background-color: rgb(112 179 177);
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+}
+.btn{
+    margin-left: 20px;
+}
